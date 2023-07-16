@@ -23,6 +23,7 @@ As it supports three sensors it could probably be used also for homing.
 
 ## Klipper 3D support
 I added experimental support to klipper and the following video shows a Quad Gantry Level run
+https://youtu.be/B2gruTA73uU
 
 
 
