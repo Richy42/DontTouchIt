@@ -12,7 +12,6 @@ As it supports three sensors it could probably be used also for homing.
 
 ### Coils cut away and one mounted on an angle
 ![IMG_20230713_115825](https://github.com/Richy42/DontTouchIt/assets/77325271/f1800d3b-4797-478f-8484-ac9cb6b3e19d)
-![IMG_20230713_120229](https://github.com/Richy42/DontTouchIt/assets/77325271/eee8dee2-5a39-429e-a695-7eb3263bf21d)
 
 ### 3d Printed case in the size similar to an Omron (like) probe
 ![IMG_20230713_120251](https://github.com/Richy42/DontTouchIt/assets/77325271/b08b9cf8-4aea-4ad3-9503-c6586e185c46)
